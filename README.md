@@ -98,8 +98,8 @@ For a comprehensive understanding of the methodology, please refer to the [detai
 
 ## Contributors
 
-- **Wanjun Gu** - University of California, San Francisco
-- **Melissa Carpenter**, **Mingjie Zhu**, **Ankit Hirpara**, **Kenneth J. Hunt**, **Mark S. Myerson**, **Shuyuan Li** - University of Colorado School of Medicine
+- **Wanjun Gu** - [University of California, San Francisco](https://www.ucsf.edu/)
+- **Melissa Carpenter**, **Mingjie Zhu**, **Ankit Hirpara**, **Mark S. Myerson**, **Shuyuan Li** - [Steps2walk](https://steps2walk.org/)
 
 ## License
 
